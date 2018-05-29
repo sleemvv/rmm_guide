@@ -1,4 +1,21 @@
-# Table of contents
+# Summary
 
-* Инструкция по РММ
-
+* [Инструкция Zeta РММ_1](README.md)
+* [1. Установка платформы 1С: Предприятие и создание информационной базы](1_ustanovka_platformi_1s_predpriyatie_i_sozdanie_i.md)
+* [2. Регистрация РММ](2_registratsiya_rmm\README.md)
+  * [Автоматическое получение лицензии](2_registratsiya_rmm\avtomaticheskoe_poluchenie_litsenzii.md)
+  * [Ручной ввод информации о лицензии](2_registratsiya_rmm\ruchnoi_vvod_informatsii_o_litsenzii.md)
+* [3. Начальные настройки](3_nachalnie_nastroiki\README.md)
+  * [3.1. Первоначальная настройка для работы с собственной базой и веб-сервисами поставщиков](3_nachalnie_nastroiki\31_pervonachalnaya_nastroika_dlya_raboti_s_sobstve.md)
+  * [3.2. Настройка работы РММ с Виртуальным складом (ВС).](3_nachalnie_nastroiki\32_nastroika_raboti_rmm_s_virtualnim_skladom_vs.md)
+* [4. Поиск товара в РММ](4_poisk_tovara_v_rmm\README.md)
+  * [4.1. Варианты поиска](4_poisk_tovara_v_rmm\41_varianti_poiska.md)
+  * [4.2. Этапы поиска](4_poisk_tovara_v_rmm\42_etapi_poiska.md)
+  * [4.3. Добавление в корзину](4_poisk_tovara_v_rmm\43_dobavlenie_v_korzinu.md)
+* [5. Условия продажи. Выбор покупателя, договора, типа цен и склада отгрузки](5_usloviya_prodazhi_vibor_pokupatelya,_dogovora,_t.md)
+* [6. Работа с корзиной. Создание заказа](6_rabota_s_korzinoi_sozdanie_zakaza\README.md)
+  * [6.1. Изменение состава корзины.](6_rabota_s_korzinoi_sozdanie_zakaza\61_izmenenie_sostava_korzini.md)
+  * [6.2. Сохранение корзины](6_rabota_s_korzinoi_sozdanie_zakaza\62_sohranenie_korzini.md)
+  * [6.3. Расчет скидки (при подключении к своей базе)](6_rabota_s_korzinoi_sozdanie_zakaza\63_raschet_skidki_pri_podklyuchenii_k_svoei_baze.md)
+  * [6.4. Создание заказа покупателя](6_rabota_s_korzinoi_sozdanie_zakaza\64_sozdanie_zakaza_pokupatelya.md)
+  * [6.5. Новая продажа](6_rabota_s_korzinoi_sozdanie_zakaza\65_novaya_prodazha.md)
