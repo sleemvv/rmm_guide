@@ -2,8 +2,6 @@
 
 ![](d:/Downloads/Инструкция%20Zeta%20РММ/export/assets/image23png.png)На белом фоне.png
 
-![](.gitbook/assets/image23png.png)
-
 Инструкция по работе сZeta РММ \(рабочее место менеджера\)
 
 Версия 1.2.2.9
